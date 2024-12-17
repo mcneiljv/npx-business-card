@@ -1,6 +1,6 @@
 {
   "name": "jamiemcneil",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "An npx business card for Jamie McNeil (@mcneiljv)",
   "main": "card.js",
