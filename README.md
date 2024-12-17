@@ -18,6 +18,8 @@ npx jamiemcneil
 
 The final output looks something like this:
 
+![image](https://github.com/mcneiljv/npx-business-card/blob/main/assets/npx-jamiemcneil.gif)
+
 ---
 
 #### Follow these steps to create your own 🧑‍💻
