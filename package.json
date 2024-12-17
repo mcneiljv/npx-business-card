@@ -4,7 +4,7 @@
   "description": "An npx business card for Jamie McNeil (@mcneiljv)",
   "main": "card.js",
   "bin": {
-    "jamiemcneil": "./card.js"
+    "jamiemcneil": "card.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
