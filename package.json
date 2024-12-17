@@ -18,5 +18,8 @@
     "business card"
   ],
   "author": "Jamie McNeil <jamievmcneil@gmail.com> (https://jamievmcneil.io/)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.5"
+  }
 }
