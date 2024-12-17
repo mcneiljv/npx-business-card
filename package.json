@@ -1,6 +1,7 @@
 {
   "name": "jamiemcneil",
   "version": "1.0.3",
+  "type": "module",
   "description": "An npx business card for Jamie McNeil (@mcneiljv)",
   "main": "card.js",
   "bin": {
@@ -20,6 +21,8 @@
   "author": "Jamie McNeil <jamievmcneil@gmail.com> (https://jamievmcneil.io/)",
   "license": "ISC",
   "dependencies": {
-    "prettyjson": "^1.2.5"
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "minimist": "^1.2.8"
   }
 }
