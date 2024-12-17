@@ -1,0 +1,22 @@
+{
+  "name": "jamiemcneil",
+  "version": "1.0.0",
+  "description": "An npx business card for Jamie McNeil (@mcneiljv)",
+  "main": "card.js",
+  "bin": {
+    "jamiemcneil": "./card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Jamie McNeil <jamievmcneil@gmail.com> (https://jamievmcneil.io/)",
+  "license": "ISC"
+}
