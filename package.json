@@ -3,9 +3,9 @@
   "version": "1.0.4",
   "type": "module",
   "description": "An npx business card for Jamie McNeil (@mcneiljv)",
-  "main": "card.js",
+  "main": "cli.js",
   "bin": {
-    "jamiemcneil": "card.js"
+    "jamiemcneil": "cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
