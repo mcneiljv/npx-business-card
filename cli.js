@@ -11,9 +11,9 @@ const options = {
 const data = {
   name: chalk.bold.green('             Jamie McNeil'),
   handle: chalk.white('@mcneiljv'),
-  work: `${chalk.white('Lead Software Engineer at')} ${chalk
+  work: `${chalk.white('Software Engineer at')} ${chalk
     .hex('#2b82b2')
-    .bold('Hoylu')}`,
+    .bold('Alcon')}`,
   github: chalk.gray('https://github.com/') + chalk.green('mcneiljv'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('jamiemcneil'),
   web: chalk.cyan('https://jamievmcneil.io'),
